@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+div {
+  margin: 20px;
+}
+
+.inputlong {
+  width: 500px;
+  padding: 5px;
+}
+
+.highlighted {
+  background-color: rgb(255,254,225);
+}
+
